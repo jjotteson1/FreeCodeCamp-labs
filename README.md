@@ -7,4 +7,4 @@ Each lab folder includes:
 - A README with the lab description, user stories, tests, and a live demo link
 - An `index.html` file (and other files if needed) containing the solution
 
-You can view all the completed labs on the **[Live Site](https://jjotteson1.github.io/FreeCodeCamp-labs/)**.
+You can view all the completed labs on the **[Live Site](./index.html)**.
