@@ -5,7 +5,7 @@ Build an app that is functionally similar to [this FreeCodeCamp lab](https://www
 Fulfill the user stories below and get all the tests to pass to complete the lab.
 
 ## Live Demo
-[View Completed Lab](PASTE-LIVE-DEMO-LINK-HERE)
+[View Completed Lab](https://jjotteson1.github.io/FreeCodeCamp-labs/HTML/04-Build-a-Travel-Agency/index.html)
 
 ## User Stories
 1. You should have a DOCTYPE declaration.
