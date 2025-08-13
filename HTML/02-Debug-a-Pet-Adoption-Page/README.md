@@ -7,7 +7,7 @@ Your job is to fix all of the errors so Sally can continue building her page.
 Fulfill the user stories below and get all the tests to pass to complete the lab.
 
 ## Live Demo
-[View Completed Lab](https://jjotteson1.github.io/FreeCodeCamp-labs/HTML/02-Debug%20a%20Pet%20Adoption%20Page/index.html)
+[View Completed Lab](https://jjotteson1.github.io/FreeCodeCamp-labs/HTML/02-Debug-a-Pet-Adoption-Page/index.html)
 
 ## User Stories
 1. Sally wants to use an image of some cats but it is not displaying correctly. You will need to fix the following in the `img` element:  
