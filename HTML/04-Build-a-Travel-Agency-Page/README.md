@@ -1,11 +1,11 @@
 # 04-Build a Travel Agency Page
 
-Build an app that is functionally similar to [this FreeCodeCamp lab](https://www.freecodecamp.org/learn/full-stack-developer/lab-travel-agency-page/build-a-travel-agency-page). Try not to copy the example project—give it your own personal style.
+Build an app that is functionally similar to [this example project](https://www.freecodecamp.org/learn/full-stack-developer/lab-travel-agency-page/build-a-travel-agency-page). Try not to copy the example project—give it your own personal style.
 
 Fulfill the user stories below and get all the tests to pass to complete the lab.
 
 ## Live Demo
-[View Completed Lab](https://jjotteson1.github.io/FreeCodeCamp-labs/HTML/04-Build-a-Travel-Agency/index.html)
+[View Completed Lab](https://jjotteson1.github.io/FreeCodeCamp-labs/HTML/04-Build-a-Travel-Agency-Page/index.html)
 
 ## User Stories
 1. You should have a DOCTYPE declaration.
