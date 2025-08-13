@@ -5,7 +5,7 @@ Camperbot is trying to build a profile page. They asked a friend to look over th
 Your job is to fix all of Camperbot's errors so they can continue building their profile page. Complete the items in the user stories below and click "Run the Tests" to see if you fixed all the errors.
 
 ## Live Demo
-[View Completed Lab](https://jjotteson1.github.io/FreeCodeCamp-labs/HTML/01-Debug%20Camperbot's%20Profile%20Page/index.html)
+[View Completed Lab](https://jjotteson1.github.io/FreeCodeCamp-labs/HTML/01-Debug-Camperbot's-Profile-Page/index.html)
 
 ## User Stories
 1. Camperbot is trying to use a heading2 element, but that element does not exist. Fix those tags so it uses a correct second-level heading element.
